@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CompareTheTrip",
+            "request": "launch",
+            "mainClass": "HackerRankProblems.CompareTheTrip",
+            "projectName": "DataStructureAndAlgorithm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Algorithms",
+            "request": "launch",
+            "mainClass": "DerekBanasVid.Algorithms",
+            "projectName": "DataStructureAndAlgorithm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DataArrayApp",
+            "request": "launch",
+            "mainClass": "Chapter02.DataArrayApp",
+            "projectName": "DataStructureAndAlgorithm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OrdArrayApp",
+            "request": "launch",
+            "mainClass": "Chapter02.OrdArrayApp",
+            "projectName": "DataStructureAndAlgorithm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HighArrayApp",
+            "request": "launch",
+            "mainClass": "Chapter02.HighArrayApp",
+            "projectName": "DataStructureAndAlgorithm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Listing21",
+            "request": "launch",
+            "mainClass": "Chapter02.Listing21",
+            "projectName": "DataStructureAndAlgorithm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Chapter02",
+            "request": "launch",
+            "mainClass": "Chapter02",
+            "projectName": "DataStructureAndAlgorithm"
+        }
+    ]
+}
