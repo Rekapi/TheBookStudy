@@ -40,7 +40,7 @@ public class LinkList {
 	
 	// ----------------------------------------------------------------------// 
 	// Listing 5.2 - finding and deleting specified Links 
-	// finding soecific link
+	// finding specific link
 	public Link find(int key) {
 		Link curr = first;
 		while(curr.iData != key) { // while no matching 
